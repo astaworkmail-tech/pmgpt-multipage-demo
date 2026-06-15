@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://astaworkmail-tech.github.io/pmgpt-multipage-demo/info/</loc>
+    <lastmod>2026-06-15T01:11:37.887Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://astaworkmail-tech.github.io/pmgpt-multipage-demo/</loc>
     <lastmod>2026-06-15T01:11:25.561Z</lastmod>
     <changefreq>weekly</changefreq>
